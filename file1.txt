@@ -1,2 +1,2 @@
 Ciao mondo
-salve da locale
+ciao da cloud
